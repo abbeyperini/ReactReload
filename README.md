@@ -1,6 +1,6 @@
 # ReactReload
 
-This is the example code for React/Redux - Reload a Page When a User Makes a Change, or how to use the useEffect() hook to reload components based on changes other components are making.
+This is the example code for [React/Redux - Reload a Page When a User Makes a Change](https://abbeyperini.medium.com/react-redux-reload-a-page-when-a-user-makes-a-change-7661a3e1b8ed), or how to use the useEffect() hook to reload components based on changes other components are making.
 
 # Getting Started
 
